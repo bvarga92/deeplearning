@@ -22,7 +22,7 @@ end
 
 %% LEGNAGYOBB SAJATERTEKHEZ TARTOZO SAJATVEKTOR KERESESE
 [v,l]=eig(R);
-[~,I]=max(diag(l));
+[lmax,I]=max(diag(l));
 v1=v(:,I);
 v1=v1/v1(1)*max(x);
 figure(1);
