@@ -43,7 +43,7 @@ plot(t,X');
 title('Megfigyelt jelek');
 subplot(3,1,2);
 plot(t,S');
-title('Eredeti kompoenensek');
+title('Eredeti komponensek');
 subplot(3,1,3);
 plot(t,B'*V);
 title('Visszaallitott komponensek');
