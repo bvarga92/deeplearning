@@ -5,6 +5,7 @@ Mély neurális hálózatokkal és gépi tanulással kapcsolatos anyagok.
 - **fuzzy_notes**: zene kottázása fuzzy következtetõ rendszerrel
 - **glass**: üres és teli borospohár hangjának megkülönböztetése neurális hálózattal
 - **ica**: függetlenkomponens-analízis
+- **mlp_c**: MLP háló C nyelvû implementációja
 - **python**: neurális hálós feladatok Pythonban
 - **clust_em.m**: generatív klaszterezés Expectation-Maximization algoritmussal, kevert Gauss-eloszlások esete
 - **clust_hier.m**: diszkriminatív klaszterezés hierarchikus algoritmussal, 2D példa
