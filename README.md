@@ -12,3 +12,4 @@ Mély neurális hálózatokkal és gépi tanulással kapcsolatos anyagok.
 - **clust_kmeans.m**: diszkriminatív klaszterezés k-means algoritmussal, 2D példa
 - **lda.m**: Fisher-féle lineáris diszkriminanciaanalízis
 - **pca.m**: fõkomponens-analízis
+- **qlearn.m**: Q-learning demó
