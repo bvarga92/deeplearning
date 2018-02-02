@@ -9,4 +9,4 @@
 - **07**: MLP háló magas szintû implementációja Torch segítségével, XOR osztályozási probléma
 - **08**: MLP háló magas szintû implementációja Torch segítségével, szinusz regressziós probléma **(TODO)**
 - **09**: regresszió scikit-learn eszközökkel
-- **10**: kézzel írott számjegyek felismerése konvolúciós hálóval (TensorFlow implementáció, MNIST adatbázis) **(TODO)**
+- **10**: kézzel írott számjegyek felismerése konvolúciós hálóval (TensorFlow implementáció, MNIST adatbázis)
