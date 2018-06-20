@@ -1,6 +1,6 @@
 # Deep Learning
 
-Mély neurális hálózatokkal és gépi tanulással kapcsolatos anyagok.
+Mély neurális hálózatokkal és egyéb gépi tanulással kapcsolatos anyagok.
 
 - **fuzzy_notes**: zene kottázása fuzzy következtetõ rendszerrel
 - **glass**: üres és teli borospohár hangjának megkülönböztetése neurális hálózattal
@@ -12,5 +12,6 @@ Mély neurális hálózatokkal és gépi tanulással kapcsolatos anyagok.
 - **clust_hier.m**: diszkriminatív klaszterezés hierarchikus algoritmussal, 2D példa
 - **clust_kmeans.m**: diszkriminatív klaszterezés k-means algoritmussal, 2D példa
 - **lda.m**: Fisher-féle lineáris diszkriminanciaanalízis
+- **mnist_classification.m**: kézzel írott számjegyek felismerése, MLP háló és KNN osztályozás manuális implementációja
 - **pca.m**: fõkomponens-analízis
 - **qlearn.m**: Q-learning demó
