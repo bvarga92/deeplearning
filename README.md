@@ -13,5 +13,6 @@ Mély neurális hálózatokkal és egyéb gépi tanulással kapcsolatos anyagok.
 - **clust_kmeans.m**: diszkriminatív klaszterezés k-means algoritmussal, 2D példa
 - **lda.m**: Fisher-féle lineáris diszkriminanciaanalízis
 - **mnist_classification.m**: kézzel írott számjegyek felismerése, MLP háló és KNN osztályozás manuális implementációja
+- **naivebayes.m**: osztályozás naiv Bayes-módszerrel
 - **pca.m**: fõkomponens-analízis
 - **qlearn.m**: Q-learning demó
