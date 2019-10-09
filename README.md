@@ -7,6 +7,7 @@ Mély neurális hálózatokkal és egyéb gépi tanulással kapcsolatos anyagok.
 - **ica**: függetlenkomponens-analízis
 - **mlp_c**: MLP háló C nyelvû implementációja
 - **python**: neurális hálós feladatok Pythonban
+- **qlearn_cartpole**: invertált inga egyensúlyozásának megtanulása Q-learninggel
 - **qlearn_pong**: ping-pong játék megtanulása Q-learning segítségével
 - **adasyn.m**: mesterséges adatok generálása Adaptive Synthetic Sampling algoritmussal
 - **clust_em.m**: generatív klaszterezés Expectation-Maximization algoritmussal, kevert Gauss-eloszlások esete
